@@ -2,6 +2,8 @@
 
 London Pursuit is a complete single-player hidden-movement strategy game for the browser. Play as the fugitive against five AI detectives, or lead one detective while four AI partners pursue an AI fugitive.
 
+**Play now:** [london-pursuit.pages.dev](https://london-pursuit.pages.dev)
+
 ## Features
 
 - Complete 199-station, 468-route transport graph.
