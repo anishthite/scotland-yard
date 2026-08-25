@@ -1,7 +1,7 @@
 # London Pursuit: Implementation Plan
 
-Status: Proposed  
-Date: 2026-08-25  
+Status: Implemented
+Date: 2026-08-25
 Companion document: [PRD](./PRD.md)
 
 ## 1. Delivery strategy

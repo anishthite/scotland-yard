@@ -1,7 +1,7 @@
 # Product Requirements Document: London Pursuit
 
-Status: Draft for approval  
-Version: 0.1  
+Status: Implemented
+Version: 1.0
 Date: 2026-08-25
 
 ## 1. Product summary
@@ -409,4 +409,3 @@ Version 1 is done when all P0 requirements and acceptance scenarios pass; both r
 
 - [Ravensburger product page and current full-game downloads](https://www.ravensburger.us/en-US/products/games/board-games/scotland-yard-27514)
 - [Ravensburger current full rules PDF](https://product-files.ravensburger.cloud/manuals/706853.pdf)
-
